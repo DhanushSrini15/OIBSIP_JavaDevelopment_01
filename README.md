@@ -44,5 +44,4 @@ The **Number Guessing Game** is an interactive console application where:
 
 ---
 
-## 📂 Project Structure
 
